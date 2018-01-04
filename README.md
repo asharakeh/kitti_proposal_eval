@@ -26,7 +26,7 @@ of the method will be used inside Evaluation_Kitti.m.
 Add the proposals in KITTI format to:
 
 ```
-~/kitti_proporsla_eval/proposals/method_name_here/kitti_format/class_name_here
+~/kitti_proposal_eval/proposals/method_name_here/kitti_format/class_name_here
 ```
 
 Current supported classes are car and people (joint). 
